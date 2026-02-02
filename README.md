@@ -175,6 +175,6 @@ Feel free to fork the repository, open issues, or submit pull requests. Your con
 
 ## Connect
 
-*   **LinkedIn**: [Link to your LinkedIn profile/post]
+*   **LinkedIn**: https://www.linkedin.com/posts/mohd-afrid-4aa14725a_aiengineer-rag-generativeai-ugcPost-7424164257895976960-lKnd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD-8ogIB5WbxN-6SxzkghcVIRJQMeyxtRv4
 
 Share your experience with WiseBot! It's a great project to highlight on platforms like LinkedIn.
